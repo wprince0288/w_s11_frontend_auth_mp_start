@@ -56,5 +56,10 @@
   "engines": {
     "node": ">=18.x",
     "npm": ">=9.x"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloominstituteoftechnology/w_s11_frontend_auth_mp_start.git"
+  },
+  "license": "MIT"
 }
