@@ -76,8 +76,8 @@ Inside [StarsList.js](./frontend/components/StarsList.js) lives the list of star
 3. On logout, the token is removed from local storage, and the user navigated to the Auth route
 4. Create an effect that fires after first render
 5. If after first render there is no token in local storage, log the user out
-6. Else GET the stars from the proper endpoint, appending the `token` to the `Authorization` header of the request
-7. If the response comes back with a 401 Unauthorized, log the user out
+6. Else GET the stars from the proper endpoint, appending the token to the `Authorization` header of the request
+7. If the response arrives with a 401 Unauthorized, log the user out
 
 ## FAQ
 
