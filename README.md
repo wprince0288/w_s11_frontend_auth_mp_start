@@ -18,7 +18,7 @@ The main goal is to implement a form that can POST register and login requests, 
 
 ## 🥷 Tasks
 
-### TASK 1 - Study the finished product
+### 👉 TASK 1 - Study the finished product
 
 Watch the first few minutes of the Module Project Solution Video to get a demo of the finished product.
 
