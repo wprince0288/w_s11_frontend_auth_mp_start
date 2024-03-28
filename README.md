@@ -55,7 +55,7 @@ This endpoint allows you to GET a list of Hollywood stars by sending a valid tok
 
 `Authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJiZW4etc`
 
-### 👉 TASK 2 - Fix the Auth Screen
+### 👉 TASK 3 - Fix the Auth Screen
 
 Inside [AuthForm.js](./frontend/components/AuthForm.js) lives the one form used to log in and register
 
@@ -67,7 +67,7 @@ Inside [AuthForm.js](./frontend/components/AuthForm.js) lives the one form used 
     - If login succeeds, set the token in browser local storage and navigate to the Stars route
     - If login fails, set the error message in component state
 
-### 👉 TASK 3 - Fix the Stars Screen
+### 👉 TASK 4 - Fix the Stars Screen
 
 Inside [StarsList.js](./frontend/components/StarsList.js) lives the list of stars obtained from the API
 
